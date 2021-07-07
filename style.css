@@ -25,9 +25,9 @@ h3{font-size: 30px;}
          }
 .second-page{
               display: flex;
-              background-image: url(shapes/Frame\ 57.jpg);
+              background-image: url(Frame\ 59.jpg);
               background-repeat: no-repeat;
-              margin-bottom: 50px;
+              margin-bottom: 200px;
               margin-left: 0px;
               margin-right: 0px;
             }  
@@ -39,6 +39,29 @@ h3{font-size: 30px;}
 .s-half image{
                 height: 20%;
                 width: 20%;
-                
+            
 }
-h2{font-size: 40px;}    
+h2{font-size: 40px;}  
+.recipe{
+          text-align: center;
+          margin: 80px;
+        }  
+.third-page{ display:flex;
+             background-image: url(Frame\ 56.jpg);
+          }
+.fourth-page{display: flex;
+              margin: 5%;
+             }
+.picture{
+         width: 33%;
+        
+          box-shadow: 15px 15px 20px grey;
+          margin: 2%;
+          padding-left: 5%;
+          padding-right: 5%;
+          border-radius: 5%;
+        }
+
+
+
+     
